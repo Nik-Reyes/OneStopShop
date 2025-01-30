@@ -47,7 +47,7 @@ h2.text {
   border: 0.25px solid rgba(0, 0, 0, 0.42);
   width: min-content;
   display: inline-block;
-  margin: 0 5px;
+  margin: 5px 5px;
   vertical-align: top;
 }
 
