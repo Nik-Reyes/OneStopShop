@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+}
+
+body {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  padding: 20px;
+}
+
+#website-header {
+  margin-bottom: 20px;
+}
+
+#page-title {
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.recipe-container {
+  margin-bottom: 20px;
+}
+
+.header-container {
+  color: black;
+}
+
+h2.text {
+  font-size: 35px;
+  text-align: center;
+  width: min-content;
+  padding-bottom: 10px;
+}
+
+.food-grid {
+  padding: 10px 0;
+}
+
+.food-grid .card {
+  box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.1);
+  border: 0.25px solid rgba(0, 0, 0, 0.42);
+  width: min-content;
+  display: inline-block;
+  margin: 0 5px;
+  vertical-align: top;
+}
+
+.recipe-metadata {
+  text-align: center;
+  color: black;
+  font-size: 20px;
+  padding: 30px 20px;
+  min-height: 75px;
+}
+
+h3 {
+  vertical-align: middle;
+}
